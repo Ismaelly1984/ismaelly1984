@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/Ismaelly1984/Ismaelly1984/assets/banner.png" alt="Banner Ismael Nunes" width="100%" />
+<img src="https://github.com/Ismaelly1984/Ismaelly1984/raw/main/assets/banner.png" alt="Banner Ismael Nunes" width="100%" />
+
 
 # Olá, eu sou Ismael Nunes! 👋
 
